@@ -7,7 +7,7 @@ function App() {
       minHeight: '100vh', 
       backgroundColor: '#f3f4f6', 
       fontFamily: "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
-      color: '#1f2937',
+      color: '#2d3f57',
       padding: '40px 20px'
     }}>
       <div style={{ maxWidth: '1000px', margin: '0 auto' }}>
