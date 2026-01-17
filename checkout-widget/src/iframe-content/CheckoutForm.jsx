@@ -10,7 +10,6 @@ const CheckoutForm = () => {
              // Mock Create Payment Call to API
              // In real world, we would get order details first.
              // Here we simulate the call to Backend API
-             
              // Extract order_id from URL
              const params = new URLSearchParams(window.location.search);
              const orderId = params.get('order_id');
